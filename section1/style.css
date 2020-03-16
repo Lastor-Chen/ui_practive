@@ -1,0 +1,48 @@
+body {
+  color: #444;
+}
+
+section {
+  width: 90%;
+  position: relative;
+}
+
+.link {
+  color: #F98D04;
+}
+
+.link:hover {
+  color: #F98D04;
+  text-decoration: none;
+}
+
+.controller {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+}
+
+.btn {
+  font-size: 1.3rem;
+}
+
+.btn.left {
+  float: left;
+  position: relative;
+  left: -3.5rem;
+}
+
+.btn.right {
+  float: right;
+  position: relative;
+  right: -3.5rem;
+}
+
+.btn:focus {
+  box-shadow: none;
+}
+
+.info {
+  color: #394956;
+}

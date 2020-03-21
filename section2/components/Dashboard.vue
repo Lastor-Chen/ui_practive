@@ -14,7 +14,7 @@
     </div>
     <div class="toolbar p-3">
       <div class="row">
-        <div class="toolbar-left col-md-9 mb-3 mb-md-3">
+        <div class="toolbar-left col-md-9 mb-3 mb-md-0">
           <button class="btn btn-success">btn A</button>
           <button class="btn btn-default">btn B</button>
           <button class="btn btn-default">btn C</button>

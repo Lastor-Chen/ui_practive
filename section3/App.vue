@@ -46,6 +46,7 @@
 .man-img {
   position: absolute;
   left: 9%;
+  bottom: 0;
   z-index: 1;
 }
 

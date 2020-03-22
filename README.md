@@ -5,3 +5,6 @@
 
 * [section2](https://lastor-chen.github.io/ui_practive/section2)
 <img src="./section2/img/preview.jpg" height="150px">
+
+* [section3](https://lastor-chen.github.io/ui_practive/section3)
+<img src="./section3/img/preview.png" height="150px">
